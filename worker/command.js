@@ -727,7 +727,7 @@ let res = sock.sendMessage(from, { text: teks, mentions: mems }, { quoted: m })
 return res
  }
 }
-let head = `*╭───╼[ _DEFFBOTZ-DEFF_ ]╾──➲*`
+let head = `*╭───╼[ 𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘 - 𝙱𝚘𝚝 ]╾──➲*`
 let left = "*│*"
 let branch = "*├*"
 let bracketmenu = "*┞─╼「"
@@ -1012,22 +1012,22 @@ url: linkgrupss
 }
 }, {
 urlButton: {
-displayText: 'Instagram',
-url: 'https://instagram.com/deff.xyz'
+displayText: '𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖',
+url: 'https://instagram.com/𝙵𝚒𝚔𝚛𝚒𝚒𝚂𝚔𝚢'
 }
 }, {
 quickReplyButton: {
-displayText: '📈Status',
+displayText: '📈𝚂𝚝𝚊𝚝𝚞𝚜',
 id: '#ping'
 }
 }, {
 quickReplyButton: {
-displayText: '📞Owner',
+displayText: '📞𝙾𝚠𝚗𝚎𝚛',
 id: '#owner'
 }  
 }, {
 quickReplyButton: {
-displayText: '📊Dashboard',
+displayText: '📊𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍',
 id: '#dashboard'
 }
 }]
